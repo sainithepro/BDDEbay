@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/byte-buddy-1.12.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/failsafe-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-buffer-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-codec-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-codec-http-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-codec-socks-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-common-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-handler-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-handler-proxy-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-resolver-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-transport-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-transport-classes-epoll-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-transport-classes-kqueue-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-transport-native-epoll-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-transport-native-kqueue-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/netty-transport-native-unix-common-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-api-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-context-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-exporter-logging-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-sdk-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-sdk-common-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-sdk-extension-autoconfigure-1.16.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-sdk-extension-autoconfigure-spi-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-sdk-logs-1.16.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-sdk-metrics-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-sdk-trace-1.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/opentelemetry-semconv-1.16.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-api-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-api-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-chrome-driver-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-chrome-driver-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-chromium-driver-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-chromium-driver-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-devtools-v85-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-devtools-v85-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-devtools-v102-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-devtools-v102-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-devtools-v103-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-devtools-v103-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-devtools-v104-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-devtools-v104-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-edge-driver-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-edge-driver-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-firefox-driver-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-firefox-driver-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-http-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-http-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-ie-driver-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-ie-driver-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-java-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-java-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-json-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-json-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-opera-driver-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-opera-driver-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-remote-driver-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-remote-driver-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-safari-driver-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-safari-driver-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-support-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/selenium-support-4.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hpsai/OneDrive/Desktop/Selenium/Jar Files/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
