@@ -14,7 +14,7 @@ import io.cucumber.junit.CucumberOptions;
 		dryRun = false,
 		monochrome = true
 		//tags = "@P2"
-	   //name = {"Logo"}    only pickup scenarios which have this name in them
+	   //name = {"Logo"}    
 		)
 public class TestRunner {
 }
